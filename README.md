@@ -1,5 +1,5 @@
 # Whatsapp Stat
-[WhatsApp Stat](https://ristri.com/whatsappstat) uses [Regex](https://en.wikipedia.org/wiki/Regular_expression) to parse Whatsapp Chats (exported .txt file) and presents stats using [Chart.js](http://www.chartjs.org/).
+uses [Regex](https://en.wikipedia.org/wiki/Regular_expression) to parse Whatsapp Chats (exported .txt file) and presents stats using [Chart.js](http://www.chartjs.org/).
 
 ## How to export your WhatsApp Chat log
 
