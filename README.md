@@ -19,4 +19,4 @@ uses [Regex](https://en.wikipedia.org/wiki/Regular_expression) to parse Whatsapp
 5. Select "Save to Phone" or, if you want to email the log, select the Mail app  
 [WhatsApp FAQ page](https://faq.whatsapp.com/en/iphone/20888066/)
 
-[![HitCount](http://hits.dwyl.io/ristri/whatsappstat.svg)](http://hits.dwyl.io/ristri/whatsappstat)
+
