@@ -19,7 +19,7 @@ uses [Regex](https://en.wikipedia.org/wiki/Regular_expression) to parse Whatsapp
 5. Select "Save to Phone" or, if you want to email the log, select the Mail app  
 [WhatsApp FAQ page](https://faq.whatsapp.com/en/iphone/20888066/)
 
-##How to use whatsApp stat manager
+## How to use whatsApp stat manager
 1. Export your chat without "media" as given above and mail it to yourself.
 2. It will create a txt file of your chat .
 3. Now, You have to simply open whatsApp stat manager and have to put your files there in given option.
